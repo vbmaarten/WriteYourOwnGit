@@ -52,6 +52,7 @@
   },
   "dependencies": {
     "@types/ini": "^1.3.30",
+    "@types/sha1": "^1.1.2",
     "@types/yargs": "^16.0.0",
     "ini": "^2.0.0",
     "sha1": "^1.1.1",
